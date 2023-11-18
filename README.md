@@ -1,0 +1,3 @@
+# Tic Tac Toe
+
+Welcome to the _Tic Tac Toe Command Line Game!_ This repository contains **Python** and **C++** implementations of the classic Tic Tac Toe game, designed with a focus on **Object-Oriented Programming (OOP)** paradigms. Through this project, I aimed to deepen my understanding of both languages while embracing the principles of OOP style. Whether you're a beginner looking to explore basic game development or an enthusiast keen on studying OOP in Python and C++, this project provides an insightful journey into the world of programming. Feel free to explore the code, contribute, and enjoy playing Tic Tac Toe from the command line!
