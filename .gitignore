@@ -1,0 +1,5 @@
+# Practice files
+practice*
+
+# VS Code files
+*.code-workspace
